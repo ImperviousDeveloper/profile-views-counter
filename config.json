@@ -3,6 +3,12 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "ImperviousDeveloper",
+    "test-docker-runner",
+    "inext-portfolio",
+    "iAngular-portfolio",
+    "url-shortner-react",
+    "cloud-config-repo-rajan",
+    "microservice-config-server-props"
   ]
 }
